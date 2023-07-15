@@ -1,4 +1,4 @@
-![logo](https://github.com/riteshsinha2003/riteshsinha2003/blob/main/Hi.png)
+![logo](https://github.com/riteshsinha2003/riteshsinha2003/blob/main/Hi.jpg)
 <h1 align="center">Hi 👋, I'm Ritesh Sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
